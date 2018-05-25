@@ -1,16 +1,21 @@
-﻿## Welcome to GitHub Pages
+# myactive
 
-You can use the [editor on GitHub](https://github.com/FDLFDL/myactive/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+> A Vue.js project
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Build Setup
 
-### Markdown
+``` bash
+# install dependencies
+npm install
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# serve with hot reload at localhost:8080
+npm run dev
 
-```markdown
-哈哈哈哈哈哈哈哈哈哈或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或或s from the Jekyll theme you have selected in your [repository settings](https://github.com/FDLFDL/myactive/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# build for production with minification
+npm run build
 
-### Support or Contact
+# build for production and view the bundle analyzer report
+npm run build --report
+```
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
